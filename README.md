@@ -18,7 +18,7 @@ React + ES6 + webpack 多页面项目框架
 
 ### 简要说明
 ```
-src/views        站点入口目录，放置的是入口的js；
+src/views        站点入口目录，放置的是入口的jsx；
 src/components   React 组件目录，包含所有的业务逻辑和样式；
 src/assets       放置图片资源的目录
 ```
