@@ -4,9 +4,8 @@
   "description": "react 多页站点",
   "main": "",
   "scripts": {
-    "dev": "npm run readfile &&  webpack -p && webpack-dev-server",
-    "build": "npm run readfile && webpack -p",
-    "readfile": "node readfile"
+    "dev": "webpack -p && webpack-dev-server",
+    "build": "webpack -p"
   },
   "repository": {
     "type": "git",
